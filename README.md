@@ -1,6 +1,6 @@
 ## Clone repo
 ```sh
-git clone https://github.com/<username>/boldjaw-agent-v1.git
+git clone https://github.com/Odienurman/BOLDJAW-Agent-v1.git
 ```
 ```sh
 cd boldjaw-agent-v1
