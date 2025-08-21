@@ -1,3 +1,7 @@
+## Clone repo
+git clone https://github.com/<username>/boldjaw-agent-v1.git
+cd boldjaw-agent-v1
+
 pip install -r requirements.txt
 
 ## Siapkan .env
